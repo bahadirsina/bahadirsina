@@ -2,11 +2,11 @@
 <h1 align="center">I'm Bahadır Sina Terzioğlu</h1>
 <h2 align="center">Computer Engineer Student 3/4</h2>
 
+### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-### Connect with me:
 <br />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
