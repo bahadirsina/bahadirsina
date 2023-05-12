@@ -23,8 +23,8 @@
 
 ### 📊 GitHub Analytics
 <p align="left">
-    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&count_private=true&theme=dark"/>
-    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirsina&show_icons=true&count_private=true&theme=dark"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadirsina&show_icons=true&locale=en&layout=compact"/>
+    <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&locale=en&theme=dark" />
 </p>
 
 [linkedin]: https://www.linkedin.com/in/bahad%C4%B1r-sina-terzio%C4%9Flu-862a34275/
