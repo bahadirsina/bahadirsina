@@ -1,13 +1,12 @@
-<h1 align="center">I'm Bahadır Sina Terzioğlu</h1>
-Computer Engineer Student 3/4
+<h1 align="center">I'm Bahadır Sina Terzioğlu <br/> Computer Engineer Student 3/4</h1>
+
 
 ### Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
 <br />
-<h3 align="center">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -22,9 +21,11 @@ Computer Engineer Student 3/4
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="mysql" width="40" height="40"/> </a>   </p>
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadirsina&show_icons=true&locale=en&layout=compact"/></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&locale=en" /></p>
+### 📊 GitHub Analytics
+<p align="left">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&count_private=true&theme=dark"/>
+    <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahadirsina&show_icons=true&count_private=true&theme=dark"/>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/bahad%C4%B1r-sina-terzio%C4%9Flu-862a34275/
 [github]: https://github.com/bahadirsina
