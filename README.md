@@ -24,7 +24,7 @@
 ### 📊 GitHub Analytics
 <p align="left">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadirsina&show_icons=true&locale=en&layout=compact"/>
-    <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&locale=en&theme=dark" />
+    <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&locale=en"/>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/bahad%C4%B1r-sina-terzio%C4%9Flu-862a34275/
