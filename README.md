@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">I'm Bahadır Sina Terzioğlu</h1>
 <h2 align="center">Computer Engineer Student 3/4</h2>
 
