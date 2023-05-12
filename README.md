@@ -7,7 +7,7 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br />
 ### Languages and Tools:
-<p align="center"> 
+<p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -24,7 +24,7 @@
 ### 📊 GitHub Analytics
 <p align="left">
     <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahadirsina&show_icons=true&locale=en&layout=compact"/>
-    <img width="35%" align="center" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&locale=en"/>
+    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=bahadirsina&show_icons=true&locale=en"/>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/bahad%C4%B1r-sina-terzio%C4%9Flu-862a34275/
