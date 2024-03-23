@@ -1,4 +1,4 @@
-<h1 align="center">I'm Bahadır Sina Terzioğlu <br/> Computer Engineer Student 3/4</h1>
+<h1 align="center">I'm Bahadır Sina Terzioğlu <br/> Computer Engineer Student 4/4</h1>
 
 
 ### Connect with me:
